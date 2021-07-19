@@ -22,3 +22,5 @@ Gerard Salton, 1968
   * Conversational Search & Information Seeking
   * Online Learning to Rank (Optimizing a Ranking System with User Interaction Logs)
 
+## Final Project
+  * Title: Graph Representations of News Articles for Background Linking
